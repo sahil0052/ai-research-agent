@@ -1,7 +1,0 @@
-{
-    "delhi": 8.3,
-    "pune": 35.8,
-    "aligarh": 38.5,
-    "khair": 34.0,
-    "pakistan": 27.6
-}
